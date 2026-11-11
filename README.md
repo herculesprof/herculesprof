@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00c2a8&height=220&section=header&text=Hercules%20Ramos&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Professor%20%7C%20Consultor%20de%20Tecnologia%20%7C%20IA%20%26%20Dados&descAlignY=58&descSize=18" alt="Hercules Ramos"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00c2a8&height=220&section=header&text=Hercules%20Ramos&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Professor%20%C2%B7%20Consultor%20de%20Tecnologia%20%C2%B7%20IA%20e%20Dados&descAlignY=58&descSize=18" alt="Hercules Ramos"/>
 </p>
 
 <p align="center">
@@ -99,16 +99,17 @@
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herculesprof&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesprof&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=herculesprof&theme=tokyonight" alt="Detalhes do perfil"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=herculesprof&theme=tokyonight" alt="Estatísticas"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herculesprof&theme=tokyonight" alt="Repositórios por linguagem"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herculesprof&theme=tokyonight" alt="Linguagens mais usadas em commits"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=herculesprof&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=herculesprof&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade"/>
 </p>
 
 ---
